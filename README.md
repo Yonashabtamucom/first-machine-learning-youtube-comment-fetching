@@ -1,4 +1,4 @@
- first-machine-learning-youtube-comment-fetching
+first-machine-learning-youtube-comment-fetching
           This Python project fetches comments from a YouTube video using the YouTube Data API, processes the comments with NLP techniques, and performs sentiment analysis.
 
 Features
