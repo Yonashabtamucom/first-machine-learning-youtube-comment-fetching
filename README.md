@@ -1,4 +1,4 @@
-YouTube Comment Analyzer 
+*YouTube Comment Analyzer**YouTube Comment Analyzer 
 A Python-based NLP tool to extract, process, and analyze comments from YouTube videos using the YouTube Data API. Quickly gain insights from user comments with sentiment analysis, word frequency stats, and more.
 
  Description
