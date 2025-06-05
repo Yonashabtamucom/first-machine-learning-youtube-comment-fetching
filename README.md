@@ -69,6 +69,8 @@ This project is licensed under the MIT License — free to use and modify.
 Pull requests and suggestions are welcome!
 If you like this tool, give it a ⭐️ on GitHub!
 
+Author
+Made with ❤️ by Yonashabtamucom
 
 
 
