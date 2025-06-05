@@ -78,7 +78,7 @@ def analyze_sentiments(comments):
 def main():
     # YouTube video ID and API Key
     video_id = "4G2EO6bqaRo"  # Replace with the desired video ID
-    api_key = "AIzaSyAAKI1DL9U4VoxKyGxdJHm_dj-ZxsIN4EA"  # Replace with your API key
+    api_key = ""  # enter your API key
 
     # Fetch the comments
     print("Fetching comments...")
